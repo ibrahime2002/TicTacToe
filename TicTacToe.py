@@ -1,6 +1,5 @@
-print("Just a change for github repository")
-print("Another change in the github using edit buttob")
-
+print("Just a change for github repository to push into github")
+print("Another change in the github using edit button to pull into vs")
 def displayBoard(myList):
     print(myList[1] + ' | ' + myList[2] + ' | ' + myList[3] + "    1   2   3")
     print("---------")
